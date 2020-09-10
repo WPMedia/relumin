@@ -6,7 +6,7 @@
   "author": "Ryosuke Hasebe",
   "main": "js/app.js",
   "dependencies": {
-    "bootstrap": "3.3.4",
+    "bootstrap": "3.4.1",
     "brace": "0.5.1",
     "express": "4.12.4",
     "flux": "2.0.3",
